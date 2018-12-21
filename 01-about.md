@@ -19,7 +19,7 @@
 ## 演示
 
 ### 小程序购票系统
-![](https://github.com/cxlANDzjj/Dashboard/resources/wxapp_show.gif?raw=true)
+![](https://github.com/cxlANDzjj/Dashboard/blob/master/resources/wxapp_show.gif?raw=true)
 
 ## 迭代管理
 
