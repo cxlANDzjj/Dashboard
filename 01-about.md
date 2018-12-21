@@ -16,6 +16,11 @@
 	+ 上架、下架电影
 	+ 编辑电影院信息
 
+## 演示
+
+### 小程序购票系统
+![](https://github.com/cxlANDzjj/Dashboard/resources/wxapp_show.gif?raw=true)
+
 ## 迭代管理
 
 ### Iteration 1
