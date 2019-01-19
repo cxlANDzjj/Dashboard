@@ -26,23 +26,23 @@
 
 ## 迭代管理
 
-### Iteration 1(week7-week8)
+### Iteration 0(week7-week8)
 + 开发前准备工作、团队分工
 + 确定客户端框架
 + 确定服务端框架
 + 确定影院管理端框架
 
-### Iteration 2(week9-week10)
+### Iteration 1(week9-week10)
 + 设计Restful API
 + 设计数据库
 + 设计客户端UI以及影院管理端UI
 
-### Iteration 3(week10-week15)
+### Iteration 2(week10-week15)
 + 客户端开发
 + 服务端开发
 + 影院管理端开发
 + 客户端与服务端对接、影院管理端与服务端对接
 
-### Iteration 4(week16-week20)
+### Iteration 3(week16-week20)
 + 测试工作
 + 完善文档
