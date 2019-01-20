@@ -1,6 +1,6 @@
 **用例图：**
 
-![](/resources/usecase1.png)
+![](../resources/usecase1.png)
 
 ##### 用例名称：
 

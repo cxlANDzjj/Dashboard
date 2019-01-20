@@ -1,3 +1,3 @@
 # Database Design
 
-![](/resources/database.jpg)
+![](resources/database.jpg)

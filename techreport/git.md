@@ -47,7 +47,7 @@ git push origin master
 
 ## 6.分支管理
 
-![](/resources/git_branch.png)
+![](../resources/git_branch.png)
 
 + 查看分支列表：
 
