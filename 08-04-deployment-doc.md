@@ -1,0 +1,3 @@
+# Deployment
+
+后端使用Django框架进行开发，部署使用Nginx作为web服务器以及使用gunicorn作为WSGI容器进行部署。

@@ -24,12 +24,8 @@
     - 8.3 [架构设计、详细设计（BCE方法）到应用程序框架映射指南](08-03-relationship-between-ECB-framework-directory-design-logic-archit)
     - 8.4 [部署说明](08-04-deployment-doc)
 * 9、[成品展示](09-display)
-* X1 meet_recording
-    - [Inception meeting (2018/9/22)](X1-inception-meeting)
-    - [Iteration 1 meeting (2018/10/10)](X1-iteration1-meeting)
-    - [Iteration 2 meeting (2018/11/15)](X1-iteration2-meeting)
-    - [Iteration 3 meeting (2018/12/20)](X1-iteration3-meeting)
+* [X1 meet_recording](X1-inception-meeting)
 * [X2 Tech/Work Report](X2-techwork-report)
+    - [18214691-Git使用总结](techreport/git)
 * [X3 Final Report](X3-final-report)
-    - 学号-title
-    - 小组分工与贡献率说明
+    - [18214691-前后端开发](finalreport/18214691)
